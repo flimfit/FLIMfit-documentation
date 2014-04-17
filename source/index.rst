@@ -15,10 +15,9 @@ Contents
    :maxdepth: 3
 
    self
-   introduction
    gui
    instrument_settings
-
+   advanced
 
 Common Abbreviations
 -------------

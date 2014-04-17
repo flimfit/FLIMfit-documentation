@@ -13,3 +13,9 @@
     font-weight: bold;
     font-style: normal;
   }
+
+
+.wy-table-responsive table td
+{
+  white-space: normal;
+}
