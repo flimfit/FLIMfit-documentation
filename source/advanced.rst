@@ -15,7 +15,7 @@ Creating the IRF Shift Map
  * Save the IRF shape and IRF shift map (xml file, as prompted when the shift map is calculated)
 
 Determining the Reference Lifetime
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------
  * Load a long lifetime dye data (or a single lifetime dataset, e.g. a cell expressing GFP only)
  * Remove the background appropriately
  * :guilabel:`IRF` > :guilabel:`Load IRF`
