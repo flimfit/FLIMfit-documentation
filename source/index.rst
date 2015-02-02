@@ -18,6 +18,7 @@ Contents
    gui
    instrument_settings
    advanced
+   faq
 
 Common Abbreviations
 -------------
