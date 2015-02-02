@@ -188,7 +188,7 @@ where ti are the bin (delay) times, σ(ti) is weighting coefficient, and Dmodel(
 
 :guilabel:`Calculate Errors` checkbox to estimate confidence intervals on the global parameters based on the F statistic. This option should currently be considered experimental and significantly increases the fitting time.
 
-
+=======================================
 Instrument and preprocessing options
 =======================================
 
