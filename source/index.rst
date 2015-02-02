@@ -19,7 +19,7 @@ Contents
 
    self
    gui
-   instrument_settings
+   tutorials
    advanced
    experimental-design
    mp-flim-checklist
