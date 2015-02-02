@@ -21,6 +21,7 @@ Contents
    gui
    instrument_settings
    advanced
+   experimental-design
    mp-flim-checklist
    gated-flim-checklist
    faq
