@@ -107,8 +107,8 @@ pygments_style = 'sphinx'
 
 #if not on_rtd:  # only import and set the theme if we're building docs locally
     #import sphinx_rtd_theme
-html_theme = "sphinx_rtd_theme"
-html_theme_path = ["_themes/sphinx_rtd_theme", ]
+html_theme = "custom_sphinx_rtd_theme"
+html_theme_path = ["_themes", ]
     #html_theme_path = ["../.."]
     #html_theme_path = ["_themes", ]
 
