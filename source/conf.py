@@ -105,10 +105,10 @@ pygments_style = 'sphinx'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 
-#if not on_rtd:  # only import and set the theme if we're building docs locally
+if not on_rtd:  # only import and set the theme if we're building docs locally
     #import sphinx_rtd_theme
-html_theme = "sphinx_rtd_theme"
-html_theme_path = ["_themes/sphinx_rtd_theme", ]
+    html_theme = "sphinx_rtd_theme"
+    html_theme_path = ["_themes/sphinx_rtd_theme", ]
     #html_theme_path = ["../.."]
     #html_theme_path = ["_themes", ]
 
