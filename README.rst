@@ -22,3 +22,4 @@ Building the documentation locally
 
 
 with thanks to: https://github.com/snide/sphinx_rtd_theme
+
