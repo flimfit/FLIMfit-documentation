@@ -2,19 +2,6 @@
 Frequently asked questions
 ==========================
 
-Loading Data
-----------------
-
-**Q. I'm trying to load TCSPC data from a Becker and Hickl card acquired in FIFO mode, why is my image scrambled?**
-
-SPCM compresses FIFO data by default, and *FLIMfit* cannot load compressed SDT files. You can batch convert the data to an uncompressed SDT file as follows:
-
-   • Load the data in SPCM 
-   • Choose Main>Convert>SDT files
-   • Select the files you want to convert
-   • Choose file format ’SDT uncompressed’
-
-
 Fitting
 ----------------
 
