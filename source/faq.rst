@@ -15,3 +15,11 @@ Exporting Data
 **Q. How do I export the real lifetime (or other parameter values?)**
 
 Select the parameters you'd like to export from the list in the left hand bar and select `File>Export Images...`. Two files will be exported for each parameter and each image, one colour-mapped image and another called '* raw.tif' which is a floating point TIFF file which contains the true parameter values. You can open these files in ImageJ, Matlab or any other program.
+
+New Users
+----------------
+
+**Q. Are there any tutorials to get me started?**
+
+Please see the online help guides at http://help.openmicroscopy.org/flimfit.html 
+
