@@ -50,7 +50,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'FLIMfit'
-copyright = u'2014, Sean Warren'
+copyright = u'2016, Sean Warren'
+project_url = 'www.flimfit.org'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
