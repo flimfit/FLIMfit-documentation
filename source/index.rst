@@ -24,6 +24,7 @@ Contents
    experimental-design
    mp-flim-checklist
    gated-flim-checklist
+   handling-tvb
    faq
 
 Common Abbreviations
