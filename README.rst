@@ -1,3 +1,5 @@
+FLIMfit documentation - build on FLIMfit CI server
+
 Building the documentation locally
 =====================================
 
